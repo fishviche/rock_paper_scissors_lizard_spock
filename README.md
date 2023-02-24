@@ -1,7 +1,7 @@
 # Rock, paper, scissors, lizard and spock
 It's a game that expands the traditional game of Rock, Paper, Scissors.
 
-## _Rules
+## _Rules_
 
 - Scissors cuts Paper
 - Paper covers Rock
